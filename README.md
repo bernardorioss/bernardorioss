@@ -9,7 +9,7 @@
 
 <div>
 <img height="300em" src="https://cdn.pixabay.com/photo/2018/04/23/18/42/welcome-3345143_1280.jpg"/>
-<h1>Ola, eu sou a Bernardo Rios, e essas sao um pouco das minhas conquistas diárias :</h1>
+<h1>Ola, eu sou Bernardo Rios, e essas sao um pouco das minhas conquistas diárias :</h1>
 </div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardorioss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardorioss&layout=compact&langs_count=7&theme=dark"/>
